@@ -1,4 +1,4 @@
-# twitter-vue
+# Event booking Front-end (Vue)
 
 ## Project setup
 ```
