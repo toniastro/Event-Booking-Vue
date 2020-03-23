@@ -181,7 +181,6 @@ html, body {
 .website-logo-inside a {
     display: inline-block;
 }
-
 .website-logo-inside .logo {
     display: inline-block;
     background-image: url("../images/logo.png");
@@ -195,14 +194,6 @@ html, body {
 
 .website-logo-inside .logo img.logo-size {
     opacity: 0 !important;
-}
-
-.no-side {
-  /*
-    @include display-flex();
-    justify-content: center;
-    align-items: center;
-    */
 }
 
 .no-side .website-logo-inside {
