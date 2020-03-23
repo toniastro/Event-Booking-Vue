@@ -55,6 +55,7 @@
     </div>
 </div> 
 </template>
+
 <style>
 .error{
 color:white;
